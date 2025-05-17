@@ -1,6 +1,6 @@
 # Linux From Scratch
   
-Let's use Gentoo Linux Live CD to build and launch our LFS. You could download Gentoo Linux USB image from 
+Let's use Gentoo Linux Live CD to build and launch our LFS. You could download Gentoo Linux USB image from (LiveGUI USB Image )
 ```
 https://www.gentoo.org/downloads/
 ```
